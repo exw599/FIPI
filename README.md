@@ -12,7 +12,7 @@ This software is distributed under the GNU General Public License.
 
 FIPI is a Hybrid Eulerian/Lagrangian simulation code for the dynamics of fluid interface, solid particles and their interactions in complex fluid environments. It was developed in Botto research group at Queen Mary university of London. It is an open-source code, distributed freely under the terms of the GNU Public License (GPL).
 
-The primary author of the code is Chuan Gu, who can be emailed
+The author of the code is Chuan Gu, who can be emailed
 at c.gu@qmul.ac.uk.
 
 The FIPI distribution includes the following files and directories:
