@@ -24,3 +24,9 @@ LICENSE	                the GNU General Public License (GPL)
 src                     source files
 
 doc                     images,videos and revelant documents
+
+----------------------------------------------------------------------
+
+Phase separation of a binary fluid inhibited by the particle monolayer
+
+![](/doc/phase_separation1.jpg?raw=true "")
