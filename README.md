@@ -22,3 +22,5 @@ README                  this file
 LICENSE	                the GNU General Public License (GPL)
 
 src                     source files
+
+doc                     images,videos and revelant documents
